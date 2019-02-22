@@ -4,5 +4,5 @@
 - A casual application for iOS devices
 - The application would record the voice of the user and store it.
 - Then allow the user to modulate the voice on Realtime.
-[x] Share the recorded file using email.
-[ ] Share modulated voice.
+- [x] Share the recorded file using email.
+- [ ] Share modulated voice.
